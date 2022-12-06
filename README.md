@@ -1,6 +1,6 @@
 # Handling Webflow Forms with JavaScript and Typescript
 
-The companion repo for this tutorial series on using JavaScript and Typescript to handle Webflow forms. 
+The companion repo for a tutorial series on using JavaScript and TypeScript to handle Webflow forms. 
 
 Youtube playlist 👉 https://www.youtube.com/playlist?list=PLRVjQBYy10oRTe2ORzIyvb5fU1o6CYAxB
 
@@ -11,7 +11,7 @@ https://webflow.com/made-in-webflow/website/forms-with-js-example
 
 ## Developing JS/TS in Webflow
 
-This is a basic setup for developing JavaScript and TypeScript inside of Webflow. If you want to learn more about developing in Webflow I've made another video here 👉 https://www.youtube.com/watch?v=VWx5pHtlgNw.
+I'm using a basic Webpack setup to serve my files locally so I can develop in Webflow. If you want to learn more about developing in Webflow I've made another video here 👉 https://www.youtube.com/watch?v=VWx5pHtlgNw.
 
 ### Setup
 
